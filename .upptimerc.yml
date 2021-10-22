@@ -44,7 +44,7 @@ status-website:
   logoUrl: https://github.com/dscalzi/HeliosLauncher/raw/master/app/assets/images/SealCircle.png
   name: Helios Status Page
   introTitle: "This page is used by Helios Launcher to get Mojang status."
-  introMessage: Oh yeah also there is some graphs there
+  introMessage: We are not Mojang/Microsoft
   navbar:
     - title: Home
       href: /
