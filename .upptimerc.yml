@@ -21,12 +21,20 @@ sites:
     url: https://login.microsoftonline.com/consumers/oauth2/v2.0/token
   - name: Xbox Live auth server
     url: https://user.auth.xboxlive.com/user/authenticate
+    expectedStatusCodes:
+      - 405
   - name: Xbox Live Gatekeeper
     url: https://xsts.auth.xboxlive.com/xsts/authorize
+    expectedStatusCodes:
+      - 405
   - name: Microsoft Minecraft API
     url: https://api.minecraftservices.com/authentication/login_with_xbox
+    expectedStatusCodes:
+      - 401
   - name: Microsoft Minecraft Profile
     url: https://api.minecraftservices.com/minecraft/profile
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
