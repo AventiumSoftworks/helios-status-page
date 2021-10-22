@@ -47,7 +47,7 @@ status-website:
   introMessage: We are not Mojang/Microsoft
   navbar:
     - title: Home
-      href: /
+      href: /helios-status-page
     - title: Helios Launcher source code
       href: https://github.com/dscalzi/HeliosLauncher
 
