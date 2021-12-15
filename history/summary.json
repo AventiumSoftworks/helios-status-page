@@ -94,9 +94,9 @@
     "url": "https://account.mojang.com/",
     "icon": "https://favicons.githubusercontent.com/account.mojang.com",
     "slug": "mojang-accounts-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 338,
     "timeMonth": 299,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "Microsoft OAuth Server",
