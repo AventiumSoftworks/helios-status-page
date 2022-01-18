@@ -4,18 +4,20 @@
     "url": "http://session.minecraft.net",
     "icon": "https://favicons.githubusercontent.com/session.minecraft.net",
     "slug": "mojang-multiplayer-session-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 49,
-    "timeWeek": 96,
-    "timeMonth": 125,
-    "timeYear": 137,
-    "dailyMinutesDown": {}
+    "time": 138,
+    "timeDay": 130,
+    "timeWeek": 111,
+    "timeMonth": 128,
+    "timeYear": 138,
+    "dailyMinutesDown": {
+      "2022-01-18": 1
+    }
   },
   {
     "name": "Mojang Authserver",
@@ -168,18 +170,20 @@
     "url": "https://api.minecraftservices.com/authentication/login_with_xbox",
     "icon": "https://favicons.githubusercontent.com/api.minecraftservices.com",
     "slug": "microsoft-minecraft-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 160,
-    "timeWeek": 247,
-    "timeMonth": 306,
-    "timeYear": 318,
-    "dailyMinutesDown": {}
+    "time": 424,
+    "timeDay": 5270,
+    "timeWeek": 1513,
+    "timeMonth": 620,
+    "timeYear": 424,
+    "dailyMinutesDown": {
+      "2022-01-18": 1
+    }
   },
   {
     "name": "Microsoft Minecraft Profile",
