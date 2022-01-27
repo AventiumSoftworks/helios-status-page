@@ -80,18 +80,20 @@
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft-net-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 519,
-    "timeWeek": 679,
-    "timeMonth": 694,
-    "timeYear": 696,
-    "dailyMinutesDown": {}
+    "time": 692,
+    "timeDay": 413,
+    "timeWeek": 633,
+    "timeMonth": 682,
+    "timeYear": 692,
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Mojang Accounts Website",
