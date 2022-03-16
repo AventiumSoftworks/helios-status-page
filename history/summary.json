@@ -6,9 +6,9 @@
     "slug": "mojang-multiplayer-session-service",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 134,
     "timeDay": 36,
@@ -16,7 +16,7 @@
     "timeMonth": 127,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2022-03-16": 21,
+      "2022-03-16": 36,
       "2022-01-18": 34
     }
   },
@@ -27,9 +27,9 @@
     "slug": "mojang-authserver",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 137,
     "timeDay": 160,
@@ -37,7 +37,7 @@
     "timeMonth": 139,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-03-16": 19,
+      "2022-03-16": 35,
       "2021-12-15": 17
     }
   },
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/api.mojang.com",
     "slug": "mojang-s-public-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 137,
     "timeDay": 69,
     "timeWeek": 113,
     "timeMonth": 121,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-03-16": 18
+      "2022-03-16": 33
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://favicons.githubusercontent.com/www.minecraft.net",
     "slug": "minecraft-net-website",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 782,
-    "timeDay": 758,
-    "timeWeek": 733,
-    "timeMonth": 684,
-    "timeYear": 782,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 779,
+    "timeDay": 621,
+    "timeWeek": 690,
+    "timeMonth": 673,
+    "timeYear": 779,
     "dailyMinutesDown": {
-      "2022-03-16": 13,
+      "2022-03-16": 18,
       "2022-01-27": 17
     }
   },
@@ -106,18 +106,18 @@
     "icon": "https://favicons.githubusercontent.com/account.mojang.com",
     "slug": "mojang-accounts-website",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 272,
     "timeDay": 286,
     "timeWeek": 374,
     "timeMonth": 287,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-03-16": 16,
+      "2022-03-16": 31,
       "2022-02-28": 5
     }
   },
@@ -181,18 +181,18 @@
     "icon": "https://favicons.githubusercontent.com/api.minecraftservices.com",
     "slug": "microsoft-minecraft-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 355,
     "timeDay": 148,
     "timeWeek": 246,
     "timeMonth": 218,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2022-03-16": 14,
+      "2022-03-16": 30,
       "2022-01-18": 33
     }
   },
@@ -203,9 +203,9 @@
     "slug": "microsoft-minecraft-profile",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 51,
     "timeDay": 10,
@@ -213,7 +213,7 @@
     "timeMonth": 69,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2022-03-16": 13
+      "2022-03-16": 28
     }
   }
 ]
