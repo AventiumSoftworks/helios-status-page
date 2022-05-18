@@ -15,6 +15,8 @@ sites:
     url: https://api.mojang.com/
   - name: Minecraft.net website
     url: https://www.minecraft.net/en-us
+    expectedStatusCodes:
+      - 403
   - name: Mojang Accounts Website
     url: https://account.mojang.com/
   - name: Microsoft OAuth Server
