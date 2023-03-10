@@ -6,11 +6,13 @@ sites:
   - name: Mojang Multiplayer Session Service
     url: http://session.minecraft.net
     expectedStatusCodes:
-      - 401
+      - 405
   - name: Mojang Authserver
     url: https://authserver.mojang.com/
   - name: Minecraft Skins
     url: https://textures.minecraft.net
+    expectedStatusCodes:
+      - 400
   - name: "Mojang's Public API"
     url: https://api.mojang.com/
   - name: Minecraft.net website
