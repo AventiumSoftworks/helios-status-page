@@ -21,6 +21,9 @@ sites:
       - 403
   - name: Mojang Accounts Website
     url: https://account.mojang.com/login
+    expectedStatusCodes:
+      - 404
+      - 200
   - name: Microsoft OAuth Server
     url: https://login.microsoftonline.com/consumers/oauth2/v2.0/token
   - name: Xbox Live auth server
