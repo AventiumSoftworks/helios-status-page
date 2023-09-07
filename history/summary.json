@@ -335,19 +335,19 @@
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft-net-website",
-    "status": "down",
+    "status": "up",
     "uptime": "95.28%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "92.79%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "72.00%",
+    "uptimeWeek": "92.70%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.84%",
-    "time": 228,
-    "timeDay": 220,
-    "timeWeek": 201,
-    "timeMonth": 208,
-    "timeYear": 195,
+    "time": 227,
+    "timeDay": 223,
+    "timeWeek": 202,
+    "timeMonth": 209,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-09-07": 389,
+      "2023-09-07": 399,
       "2023-09-06": 204,
       "2023-09-05": 11,
       "2023-09-02": 85,
@@ -439,7 +439,7 @@
     "timeDay": 49,
     "timeWeek": 208,
     "timeMonth": 176,
-    "timeYear": 280,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -457,7 +457,7 @@
     "timeDay": 178,
     "timeWeek": 201,
     "timeMonth": 236,
-    "timeYear": 307,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -475,7 +475,7 @@
     "timeDay": 101,
     "timeWeek": 188,
     "timeMonth": 210,
-    "timeYear": 242,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -493,7 +493,7 @@
     "timeDay": 102,
     "timeWeek": 76,
     "timeMonth": 68,
-    "timeYear": 169,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2023-03-31": 8,
       "2023-03-26": 28,
