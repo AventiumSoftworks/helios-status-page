@@ -335,9 +335,9 @@
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft-net-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "90.18%",
+    "uptimeDay": "90.17%",
     "uptimeWeek": "90.86%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.78%",
@@ -359,8 +359,7 @@
       "2023-05-19": 7,
       "2023-03-19": 15,
       "2023-02-13": 10,
-      "2022-12-26": 16,
-      "2022-12-02": 8
+      "2022-12-26": 16
     }
   },
   {
