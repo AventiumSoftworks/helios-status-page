@@ -161,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "up",
-    "uptime": "76.90%",
+    "uptime": "76.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -335,11 +335,11 @@
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft-net-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "89.64%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "89.63%",
+    "uptimeMonth": "97.37%",
     "uptimeYear": "99.78%",
     "time": 191,
     "timeDay": 178,
@@ -355,7 +355,7 @@
       "2023-09-06": 204,
       "2023-09-05": 11,
       "2023-09-02": 85,
-      "2023-09-01": 32
+      "2023-09-01": 24
     }
   },
   {
@@ -364,7 +364,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "mojang-accounts-website",
     "status": "up",
-    "uptime": "91.68%",
+    "uptime": "91.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
