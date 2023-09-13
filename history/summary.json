@@ -335,15 +335,15 @@
     "url": "https://www.minecraft.net/en-us",
     "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
     "slug": "minecraft-net-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "59.59%",
-    "uptimeWeek": "84.30%",
-    "uptimeMonth": "96.39%",
+    "uptimeDay": "59.69%",
+    "uptimeWeek": "84.38%",
+    "uptimeMonth": "96.40%",
     "uptimeYear": "99.70%",
     "time": 191,
-    "timeDay": 189,
-    "timeWeek": 204,
+    "timeDay": 187,
+    "timeWeek": 205,
     "timeMonth": 208,
     "timeYear": 196,
     "dailyMinutesDown": {
@@ -354,7 +354,7 @@
       "2023-09-09": 151,
       "2023-09-08": 176,
       "2023-09-07": 399,
-      "2023-09-06": 36
+      "2023-09-06": 28
     }
   },
   {
