@@ -16,7 +16,7 @@ sites:
   - name: "Mojang's Public API"
     url: https://api.mojang.com/
   - name: Minecraft.net website
-    url: https://www.minecraft.net/en-us
+    url: https://www.minecraft.net/content/dam/games/minecraft/logos/logo-minecraft.svg
     expectedStatusCodes:
       - 403
   - name: Mojang Accounts Website
