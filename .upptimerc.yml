@@ -16,9 +16,11 @@ sites:
   - name: "Mojang's Public API"
     url: https://api.mojang.com/
   - name: Minecraft.net website
-    url: https://www.minecraft.net/libs/granite/csrf/token.json
+    url: https://www.minecraft.net
     expectedStatusCodes:
       - 200
+      - 301
+      - 302
       - 403
   - name: Mojang Accounts Website
     url: https://account.mojang.com/login
