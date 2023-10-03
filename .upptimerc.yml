@@ -16,8 +16,9 @@ sites:
   - name: "Mojang's Public API"
     url: https://api.mojang.com/
   - name: Minecraft.net website
-    url: https://www.minecraft.net/content/dam/games/minecraft/logos/Logo_%20Xbox_Game_Studio.png
+    url: https://www.minecraft.net/libs/granite/csrf/token.json
     expectedStatusCodes:
+      - 200
       - 403
   - name: Mojang Accounts Website
     url: https://account.mojang.com/login
