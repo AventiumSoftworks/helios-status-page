@@ -334,38 +334,6 @@
     }
   },
   {
-    "name": "Minecraft.net website",
-    "url": "https://www.minecraft.net",
-    "icon": "https://icons.duckduckgo.com/ip3/www.minecraft.net.ico",
-    "slug": "minecraft-net-website",
-    "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.22%",
-    "uptimeYear": "98.10%",
-    "time": 195,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 208,
-    "timeYear": 200,
-    "dailyMinutesDown": {
-      "2023-09-19": 877,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 816,
-      "2023-09-12": 452,
-      "2023-09-11": 101,
-      "2023-09-10": 54,
-      "2023-09-09": 151,
-      "2023-09-08": 176,
-      "2023-09-07": 163
-    }
-  },
-  {
     "name": "Mojang Accounts Website",
     "url": "https://account.mojang.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
