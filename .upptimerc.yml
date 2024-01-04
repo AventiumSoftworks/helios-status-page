@@ -7,10 +7,6 @@ sites:
     url: http://session.minecraft.net
     expectedStatusCodes:
       - 404
-  - name: Mojang Authserver
-    url: https://authserver.mojang.com/
-    expectedStatusCodes:
-      - 503
   - name: Minecraft Skins
     url: https://textures.minecraft.net
     expectedStatusCodes:
