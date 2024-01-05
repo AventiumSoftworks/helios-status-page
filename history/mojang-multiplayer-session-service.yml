@@ -1,7 +1,7 @@
 url: http://session.minecraft.net
-status: up
-code: 404
-responseTime: 32
-lastUpdated: 2024-01-05T11:49:45.278Z
+status: down
+code: 429
+responseTime: 51
+lastUpdated: 2024-01-05T13:43:50.127Z
 startTime: 2022-05-18T13:31:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
