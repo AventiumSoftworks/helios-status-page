@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 132,
     "timeDay": 204,
     "timeWeek": 110,
@@ -25,8 +25,7 @@
       "2023-03-16": 10,
       "2023-03-15": 59,
       "2023-03-14": 25,
-      "2023-03-10": 1011,
-      "2023-03-09": 1440
+      "2023-03-10": 1011
     }
   },
   {
@@ -39,7 +38,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 223,
     "timeDay": 130,
     "timeWeek": 121,
@@ -49,8 +48,7 @@
       "2024-02-28": 26,
       "2024-01-24": 8,
       "2023-07-12": 11,
-      "2023-03-10": 1008,
-      "2023-03-09": 1440
+      "2023-03-10": 1008
     }
   },
   {
@@ -123,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "mojang-accounts-website",
     "status": "up",
-    "uptime": "93.92%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
