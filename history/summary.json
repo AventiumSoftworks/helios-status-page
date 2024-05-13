@@ -48,17 +48,17 @@
     "url": "https://api.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.mojang.com.ico",
     "slug": "mojang-s-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "93.55%",
+    "uptimeDay": "93.54%",
     "uptimeWeek": "98.17%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "99.75%",
-    "time": 323,
-    "timeDay": 595,
-    "timeWeek": 494,
-    "timeMonth": 340,
-    "timeYear": 348,
+    "time": 322,
+    "timeDay": 563,
+    "timeWeek": 483,
+    "timeMonth": 337,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2024-05-13": 22,
       "2024-05-12": 72,
@@ -100,7 +100,7 @@
       "2024-03-10": 16,
       "2024-03-09": 37,
       "2024-03-08": 76,
-      "2024-03-07": 17
+      "2024-03-07": 8
     }
   },
   {
