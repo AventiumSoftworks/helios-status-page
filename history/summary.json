@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "up",
-    "uptime": "84.94%",
+    "uptime": "84.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,17 +50,17 @@
     "slug": "mojang-s-public-api",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "98.10%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.73%",
     "time": 320,
-    "timeDay": 111,
-    "timeWeek": 448,
-    "timeMonth": 350,
+    "timeDay": 119,
+    "timeWeek": 431,
+    "timeMonth": 347,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-05-25": 8,
+      "2024-05-25": 24,
       "2024-05-24": 45,
       "2024-05-23": 8,
       "2024-05-20": 43,
@@ -100,7 +100,7 @@
       "2024-03-29": 8,
       "2024-03-28": 37,
       "2024-03-27": 36,
-      "2024-03-26": 113
+      "2024-03-26": 90
     }
   },
   {
