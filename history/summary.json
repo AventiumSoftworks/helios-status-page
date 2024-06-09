@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "up",
-    "uptime": "85.24%",
+    "uptime": "85.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -51,12 +51,12 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "99.73%",
     "time": 317,
     "timeDay": 287,
-    "timeWeek": 112,
+    "timeWeek": 117,
     "timeMonth": 301,
     "timeYear": 333,
     "dailyMinutesDown": {
@@ -210,14 +210,14 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "80.17%",
-    "uptimeWeek": "89.62%",
+    "uptimeDay": "80.15%",
+    "uptimeWeek": "89.70%",
     "uptimeMonth": "96.84%",
-    "uptimeYear": "99.72%",
-    "time": 105,
-    "timeDay": 63,
+    "uptimeYear": "99.73%",
+    "time": 104,
+    "timeDay": 61,
     "timeWeek": 74,
     "timeMonth": 73,
     "timeYear": 96,
@@ -234,7 +234,7 @@
       "2024-05-30": 90,
       "2024-01-27": 8,
       "2024-01-14": 7,
-      "2024-01-05": 59
+      "2024-01-05": 42
     }
   }
 ]
