@@ -210,14 +210,14 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "78.71%",
+    "uptimeDay": "80.02%",
     "uptimeWeek": "89.48%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.72%",
     "time": 104,
-    "timeDay": 65,
+    "timeDay": 66,
     "timeWeek": 73,
     "timeMonth": 73,
     "timeYear": 95,
@@ -234,7 +234,7 @@
       "2024-05-30": 90,
       "2024-01-27": 8,
       "2024-01-14": 7,
-      "2024-01-05": 26
+      "2024-01-05": 18
     }
   }
 ]
