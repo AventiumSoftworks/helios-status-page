@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "mojang-multiplayer-session-service",
     "status": "up",
-    "uptime": "86.00%",
+    "uptime": "86.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "up",
-    "uptime": "85.28%",
+    "uptime": "85.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -48,18 +48,19 @@
     "url": "https://api.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.mojang.com.ico",
     "slug": "mojang-s-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.73%",
     "time": 318,
-    "timeDay": 122,
-    "timeWeek": 276,
+    "timeDay": 41,
+    "timeWeek": 278,
     "timeMonth": 317,
-    "timeYear": 335,
+    "timeYear": 334,
     "dailyMinutesDown": {
+      "2024-06-11": 0,
       "2024-06-10": 8,
       "2024-06-09": 28,
       "2024-06-05": 8,
@@ -100,7 +101,7 @@
       "2024-04-24": 46,
       "2024-04-23": 8,
       "2024-04-22": 8,
-      "2024-04-21": 37
+      "2024-04-21": 14
     }
   },
   {
@@ -211,15 +212,15 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "microsoft-minecraft-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "87.05%",
-    "uptimeWeek": "85.57%",
-    "uptimeMonth": "96.42%",
+    "uptimeDay": "92.32%",
+    "uptimeWeek": "85.98%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "99.70%",
     "time": 103,
-    "timeDay": 63,
-    "timeWeek": 71,
+    "timeDay": 58,
+    "timeWeek": 73,
     "timeMonth": 72,
     "timeYear": 93,
     "dailyMinutesDown": {
@@ -231,8 +232,7 @@
       "2024-06-06": 266,
       "2024-06-05": 139,
       "2024-06-04": 62,
-      "2024-06-02": 102,
-      "2024-06-01": 14
+      "2024-06-02": 102
     }
   }
 ]
