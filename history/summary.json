@@ -171,19 +171,19 @@
     "url": "https://xsts.auth.xboxlive.com/xsts/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/xsts.auth.xboxlive.com.ico",
     "slug": "xbox-live-gatekeeper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "89.28%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 235,
-    "timeDay": 201,
-    "timeWeek": 132,
+    "timeDay": 194,
+    "timeWeek": 140,
     "timeMonth": 178,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-07-02": 147
+      "2024-07-02": 154
     }
   },
   {
