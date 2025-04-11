@@ -13,6 +13,8 @@ sites:
       - 400
   - name: "Mojang's Public API"
     url: https://api.mojang.com/
+    expectedStatusCodes:
+      - 404
   - name: Mojang Accounts Website
     url: https://account.mojang.com/login
     expectedStatusCodes:
