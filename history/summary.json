@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins",
     "status": "up",
-    "uptime": "90.62%",
+    "uptime": "90.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -46,18 +46,19 @@
     "url": "https://api.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.mojang.com.ico",
     "slug": "mojang-s-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.68%",
     "time": 300,
-    "timeDay": 144,
-    "timeWeek": 177,
-    "timeMonth": 206,
+    "timeDay": 128,
+    "timeWeek": 171,
+    "timeMonth": 204,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2025-08-15": 0,
       "2025-08-13": 17,
       "2025-08-10": 10,
       "2025-08-01": 12,
@@ -118,7 +119,7 @@
       "2024-11-18": 21,
       "2024-11-17": 32,
       "2024-11-16": 74,
-      "2024-11-15": 65
+      "2024-11-15": 50
     }
   },
   {
